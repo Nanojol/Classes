@@ -93,6 +93,7 @@ class Snowflake:
 
 
 flake = Snowflake()
+# ВАРИАНТ 1
 # flake.create_snow(center_x=50, center_y=550, length=40, colour=(255, 255, 255), factor_a=.7, factor_b=.5,
 #                   factor_c=.3)
 #

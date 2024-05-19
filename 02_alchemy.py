@@ -155,3 +155,4 @@ earth = Earth()
 fire = Fire()
 result = water + air
 print(water, air, result)
+print(earth, fire, result)
